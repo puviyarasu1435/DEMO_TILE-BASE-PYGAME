@@ -1,3 +1,3 @@
 # DEMO_TILE-BASE-PYGAME
 
-this tile useing to creat the pygame
+this tile maping to creat the pygame
